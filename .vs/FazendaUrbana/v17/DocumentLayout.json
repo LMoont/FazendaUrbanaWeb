@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\ADS\\4\u00B0 Semestre\\PIM\\Aplica\u00E7\u00E3o Web\\FazendaUrbana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucas\\.nuget\\packages\\nswag.apidescription.client\\13.18.2\\build\\NSwag.ApiDescription.Client.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.apidescription.client\\7.0.2\\build\\Microsoft.Extensions.ApiDescription.Client.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3ECE48-F2FE-4271-896A-0BFD31C7F078}|FazendaUrbana\\FazendaUrbana.csproj|c:\\users\\lucas\\onedrive\\documentos\\ads\\4\u00B0 semestre\\pim\\aplica\u00E7\u00E3o web\\fazendaurbana\\fazendaurbana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3ECE48-F2FE-4271-896A-0BFD31C7F078}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NSwag.ApiDescription.Client.targets",
+              "DocumentMoniker": "C:\\Users\\lucas\\.nuget\\packages\\nswag.apidescription.client\\13.18.2\\build\\NSwag.ApiDescription.Client.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\nswag.apidescription.client\\13.18.2\\build\\NSwag.ApiDescription.Client.targets",
+              "ToolTip": "C:\\Users\\lucas\\.nuget\\packages\\nswag.apidescription.client\\13.18.2\\build\\NSwag.ApiDescription.Client.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\nswag.apidescription.client\\13.18.2\\build\\NSwag.ApiDescription.Client.targets",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-15T17:53:32.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Extensions.ApiDescription.Client.targets",
+              "DocumentMoniker": "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.apidescription.client\\7.0.2\\build\\Microsoft.Extensions.ApiDescription.Client.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.extensions.apidescription.client\\7.0.2\\build\\Microsoft.Extensions.ApiDescription.Client.targets",
+              "ToolTip": "C:\\Users\\lucas\\.nuget\\packages\\microsoft.extensions.apidescription.client\\7.0.2\\build\\Microsoft.Extensions.ApiDescription.Client.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.extensions.apidescription.client\\7.0.2\\build\\Microsoft.Extensions.ApiDescription.Client.targets",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwF4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-15T17:19:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\ADS\\4\u00B0 Semestre\\PIM\\Aplica\u00E7\u00E3o Web\\FazendaUrbana\\FazendaUrbana\\Program.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\ADS\\4\u00B0 Semestre\\PIM\\Aplica\u00E7\u00E3o Web\\FazendaUrbana\\FazendaUrbana\\Program.cs",
+              "RelativeToolTip": "FazendaUrbana\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:18:50.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

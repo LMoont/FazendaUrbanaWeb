@@ -1,0 +1,27 @@
+﻿@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Perfil do Usuário";
+}
+
+<div style="text-align: left; margin: 20px;">
+    <h1 class="display-4 text-primary">👤 Perfil do Usuário</h1>
+
+    @if (ViewBag.MensagemCadastro != null)
+    {
+        <div class="alert alert-success mt-3">@ViewBag.MensagemCadastro</div>
+    }
+
+    <h2 class="mt-5 text-success">Dados Pessoais</h2>
+    <p class="lead mt-4">Aqui estão as informações fornecidas durante o cadastro. Mantenha-as atualizadas para facilitar o contato e acesso aos nossos serviços.</p>
+
+    <p><strong>📝 Nome:</strong> <span class="text-primary">@ViewBag.UsuarioNome</span></p>
+    <p><strong>📄 CPF/CNPJ:</strong> @ViewBag.UsuarioCpfCnpj</p>
+    <p><strong>📞 Telefone:</strong> @ViewBag.UsuarioTelefone</p>
+    <p><strong>🏠 Endereço:</strong> @ViewBag.UsuarioEndereco</p>
+    <p><strong>✉️ Email:</strong> @ViewBag.UsuarioEmail</p>
+
+    <h2 class="mt-5 text-success">Acesso e Preferências</h2>
+    <p>Para atualizar suas preferências ou informações de contato, entre em contato com nosso suporte ou acesse as configurações da conta em nosso aplicativo.</p>
+
+    <p class="font-weight-bold mt-4">Sua confiança e segurança são importantes para nós! Agradecemos por fazer parte da nossa comunidade de sustentabilidade urbana.</p>
+</div>

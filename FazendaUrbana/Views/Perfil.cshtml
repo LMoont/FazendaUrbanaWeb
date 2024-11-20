@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Perfil do Usuário";
+}
+
+<div style="margin: 20px;">
+    <h1>Perfil do Usuário</h1>
+
+    @* Mensagem de cadastro com exibição condicional *@
+    @if (!string.IsNullOrEmpty(ViewBag.MensagemCadastro as string))
+    {
+        <p style="color: green; font-weight: bold;">@ViewBag.MensagemCadastro</p>
+    }
+
+    @* Verificação se o nome do usuário está disponível *@
+    @if (!string.IsNullOrEmpty(ViewBag.UsuarioNome as string))
+    {
+        <p>Bem-vindo, <strong>@ViewBag.UsuarioNome</strong>!</p>
+    }
+    else
+    {
+        <p>Bem-vindo, usuário!</p>
+    }
+
+    <div style="margin-top: 20px;">
+        <a href="/Usuario/Logout" class="btn btn-primary">Logout</a>
+    </div>
+</div>
